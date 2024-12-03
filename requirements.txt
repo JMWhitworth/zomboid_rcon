@@ -1,2 +1,2 @@
-rcon==2.3.9
+rcon==2.4.9
 timeout-decorator==0.5.0
